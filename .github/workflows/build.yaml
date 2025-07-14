@@ -31,5 +31,5 @@ jobs:
           prerelease: false
           draft: false
           body: ${{ github.event.head_commit.message }}
-          files: vibration.nro
+          files: vibration-tester-for-Nintendo-Switch.nro
           name: "Switch Release #${{ github.run_number }}"
