@@ -1,4 +1,4 @@
-# Vibration Testers
+# Vibration Tester
 A homebrew that will vibrates your controllers on your Nintendo Switch
 
 ALL THE FEATURES:  
