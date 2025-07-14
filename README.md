@@ -1,9 +1,9 @@
-# fuck-u
+# Vibration Testers
 A homebrew that will vibrates your controllers on your Nintendo Switch
 
-ALL THE FEATURES:
-Press R to start vibrating.   
-Press L to stop vibrating.
+ALL THE FEATURES:  
+Press R to start vibrating.     
+Press L to stop vibrating.  
 
 
 How to install on your switch:  
